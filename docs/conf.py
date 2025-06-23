@@ -1,4 +1,4 @@
-project = 'NordPass'
+project = 'AVG Antivirus'
 author = 'Your Name'
 release = '1.0'
 
